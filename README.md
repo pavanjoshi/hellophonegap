@@ -1,0 +1,2 @@
+# hellophonegap
+Phonegap Starter Project
